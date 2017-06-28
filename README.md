@@ -1,2 +1,9 @@
 # Bootstrap-Portfolio
-Homework 2 part 2
+
+### Overview
+
+Recreated the `Basic-Portfolio` using Bootstrap CSS to help with responsiveness. 
+
+### Technologies Utilized 
+
+HTML/CSS Bootstrap CSS
